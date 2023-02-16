@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+
+}
+.header img {
+    width: 25%;
+    height: 35%;
+}
+.header button {
+    background-color: #347deb;
+}
